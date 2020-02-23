@@ -1,0 +1,9 @@
+{
+  "frameworks": {
+    "net461":{
+      "dependencies": {
+        "System.Data.SqlClient": "4.5.1"
+      }
+    }
+   }
+}
